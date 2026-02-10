@@ -1,0 +1,35 @@
+h1{
+    color:rgb(120, 0, 0)
+
+
+}
+
+img {
+    width: 100px;
+    height: auto;
+    float: left;
+    margin-right: 15px;
+    margin-bottom: 1px;
+    margin-top:1px;
+    clear: both;
+}
+h3{
+    color:rgb(120, 0, 0)
+
+}
+body{
+    background-color: rgb(198, 224, 255);
+}
+h2{
+    color:rgb(120, 0, 0)
+
+}
+
+p{
+    color:rgb(193, 18, 31)
+    
+}
+
+ol{
+    color:rgb(193, 18, 31)
+}
